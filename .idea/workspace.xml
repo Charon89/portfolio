@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3130b745-59c4-4314-9b6e-257a0b0272c4" name="Default Changelist" comment="" />
+    <list default="true" id="3130b745-59c4-4314-9b6e-257a0b0272c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/html/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/204_-_Pencil.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/204_-_Pencil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/204___Pencil.zip" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aO4pn8x6jMg3US5VBoPwhsyvbk" />
   <component name="ProjectViewState">
@@ -62,6 +71,7 @@
       <updated>1586593491621</updated>
       <workItem from="1586593492855" duration="7462000" />
       <workItem from="1586602754213" duration="5946000" />
+      <workItem from="1586779767181" duration="23000" />
     </task>
     <servers />
   </component>
