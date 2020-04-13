@@ -1,0 +1,95 @@
+:root {
+  --primary-color: rgb(137, 207, 186);
+  --overlay-color: rgba(82, 149, 111, 0.95);
+  --menu-speed: 1s;
+  --heading-font: 'Baloo Paaji 2', cursive;
+  --primary-font: 'Roboto Slab', serif;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100vh;
+}
+h2,
+h3,
+h4 {
+  font-family: var(--heading-font);
+}
+p {
+  font-family: var(--primary-font);
+}
+
+.headingTitle {
+  letter-spacing: 3px;
+  font-family: 'Clicker Script', cursive;
+  text-shadow: 1px 1px 1px black;
+  font-size: 8rem;
+}
+
+.container {
+  max-width: 960px;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 3rem;
+  text-align: center;
+}
+
+.container2 {
+  max-width: 960px;
+  margin: auto;
+  overflow: hidden;
+  padding: 0 3rem;
+  text-align: center;
+}
+
+.showcase {
+  background-color: var(--primary-color);
+  color: #fff;
+  height: 50vh;
+  position: relative;
+}
+
+.showcase2 {
+  background-color: #fff;
+  position: relative;
+}
+
+.showcase:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.showcase .showcase-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+}
+
+.showcase2 .showcase-inner2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  .headingTitle {
+    font-size: 4rem;
+  }
+}

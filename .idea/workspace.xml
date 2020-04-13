@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3130b745-59c4-4314-9b6e-257a0b0272c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="607" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aO4pn8x6jMg3US5VBoPwhsyvbk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codrops-wave-motion-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Work_search\portfolio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfolio/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="three.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/three.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.three.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3130b745-59c4-4314-9b6e-257a0b0272c4" name="Default Changelist" comment="" />
+      <created>1586593491621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586593491621</updated>
+      <workItem from="1586593492855" duration="7462000" />
+      <workItem from="1586602754213" duration="5946000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586593598235">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1174" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586593598235" />
+    <state x="1450" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586617613655">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1450" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586617613655" />
+    <state x="1429" y="381" key="#main.js" timestamp="1586606867378">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1429" y="381" key="#main.js/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586606867378" />
+    <state x="1429" y="381" key="#three.js" timestamp="1586597986936">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1429" y="381" key="#three.js/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586597986936" />
+    <state x="1500" y="455" key="FileChooserDialogImpl" timestamp="1586600959121">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1500" y="455" key="FileChooserDialogImpl/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586600959121" />
+    <state width="3419" height="380" key="GridCell.Tab.0.bottom" timestamp="1586600961876">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="380" key="GridCell.Tab.0.bottom/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586600961876" />
+    <state width="3419" height="380" key="GridCell.Tab.0.center" timestamp="1586600961876">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="380" key="GridCell.Tab.0.center/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586600961876" />
+    <state width="3419" height="380" key="GridCell.Tab.0.left" timestamp="1586600961876">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="380" key="GridCell.Tab.0.left/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586600961876" />
+    <state width="3419" height="380" key="GridCell.Tab.0.right" timestamp="1586600961876">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="380" key="GridCell.Tab.0.right/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586600961876" />
+    <state width="3419" height="280" key="GridCell.Tab.1.bottom" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.1.bottom/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.1.center" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.1.center/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.1.left" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.1.left/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.1.right" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.1.right/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.2.bottom" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.2.bottom/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.2.center" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.2.center/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.2.left" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.2.left/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.2.right" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.2.right/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.3.bottom" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.3.bottom/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.3.center" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.3.center/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.3.left" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.3.left/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state width="3419" height="280" key="GridCell.Tab.3.right" timestamp="1586596817931">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3419" height="280" key="GridCell.Tab.3.right/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586596817931" />
+    <state x="1221" y="342" key="SettingsEditor" timestamp="1586594247890">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1221" y="342" key="SettingsEditor/3440.0.2560.1400/0.0.3440.1400@0.0.3440.1400" timestamp="1586594247890" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/portfolio$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1586594517561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
