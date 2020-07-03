@@ -42,6 +42,7 @@ h2 {
 }
 
 .work-innerWrap h2 {
+
   color: #fff;
   font-size: 3rem;
   font-family: var(--heading-font);
@@ -96,7 +97,8 @@ p {
 .work-link a {
   background-color: #f44336;
   color: white;
-  padding: 14px 25px;
+  width: 200px;
+  padding: 10px 30px;
   margin: 15px 0;
   text-align: center;
   text-decoration: none;
