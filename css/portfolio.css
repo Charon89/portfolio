@@ -57,11 +57,23 @@ p {
   margin-top: 15px;
 }
 
-.work-img {
-  width: 40%;
+.image-container{
+  overflow: hidden;
+  width: 60%;
   margin: 50px 0;
-  border-radius: 3px;
+  box-shadow: 0px 3px 10px 1px rgb(122, 122, 122);
 }
+.work-img {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+  transition: 1s ease-out;
+  transform: scale(1);
+}
+.work-img:hover{
+  transform:scale(1.2) ;
+}
+
 
 .work-innerWrap-white .work-description {
   /* padding: 0 150px; */
@@ -101,6 +113,11 @@ p {
 }
 
 @media only screen and (max-width: 975px) {
+  .image-container{
+  overflow: hidden;
+  width: 100%;
+  margin: 30px 0;
+}
   .work-img {
     width: 100%;
     margin: 30px 0;

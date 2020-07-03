@@ -1,7 +1,7 @@
 :root {
   --primary-color: rgb(137, 207, 186);
   --overlay-color: rgba(82, 149, 111, 0.95);
-  --menu-speed: 1s;
+  --menu-speed: 0.4s;
   --heading-font: 'Baloo Paaji 2', cursive;
   --primary-font: 'Roboto Slab', serif;
 }
@@ -22,6 +22,7 @@ h4 {
   font-family: var(--heading-font);
 }
 p {
+  line-height: 2rem;
   font-family: var(--primary-font);
 }
 
@@ -41,7 +42,8 @@ p {
 }
 
 .container2 {
-  max-width: 960px;
+  max-width: 1200px;
+  width: 100%;
   margin: auto;
   overflow: hidden;
   padding: 0 3rem;
@@ -85,11 +87,40 @@ p {
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 100%;
+  padding: 25px 15px;
+}
+
+.skills {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 3px;
+  justify-items: center;
+  width: 100%;
+}
+
+.skills > img {
+  width: 100px;
+  transform: scale(0.8);
+  transition: 0.4s ease-in-out;
+
+}
+.skills > img:hover {
+  transform: scale(1.1);
 }
 
 @media only screen and (max-width: 600px) {
   .headingTitle {
     font-size: 4rem;
+  }
+  .container2{
+    width: 100%;
+    padding: 0 1rem;
+  }
+  .skills {
+  grid-template-columns: repeat(5, 1fr);
+  
+}
+  .skills > img {
+    width: 40px;
   }
 }
