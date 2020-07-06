@@ -124,9 +124,43 @@ p {
   }
 }
 
+.contacts-container {
+  margin-top: 30px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+}
+
+.contacts-container i,
+a {
+  color: rgb(70, 70, 70);
+  transition: all 0.5s ease-out;
+}
+
+.contacts-container i:hover {
+  color: rgb(0, 0, 0);
+}
+
 footer {
   background-color: var(--primary-color);
   color: #fff;
+}
+.contacts-container-f {
+  margin-top: 30px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+}
+
+.contacts-container-f i,
+a,
+p {
+  color: rgb(83, 83, 83);
+  transition: all 0.5s ease-out;
+}
+
+.contacts-container-f i:hover {
+  color: rgb(255, 255, 255);
 }
 
 @media only screen and (max-width: 850px) {
@@ -142,5 +176,19 @@ footer {
   }
   .skills > img {
     width: 40px;
+  }
+  .contacts-container i {
+    font-size: 3em;
+  }
+
+  .contacts-container {
+    grid-template-columns: 1fr 1fr;
+  }
+    .contacts-container-f i {
+    font-size: 3em;
+  }
+
+  .contacts-container-f {
+    grid-template-columns: 1fr 1fr;
   }
 }
