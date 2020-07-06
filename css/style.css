@@ -96,30 +96,50 @@ p {
   grid-gap: 3px;
   justify-items: center;
   width: 100%;
+  margin: 30px 0;
 }
 
 .skills > img {
   width: 100px;
   transform: scale(0.8);
   transition: 0.4s ease-in-out;
-
 }
 .skills > img:hover {
   transform: scale(1.1);
 }
 
-@media only screen and (max-width: 600px) {
+.cursor {
+  animation: cursor 1s cubic-bezier(1, -0.28, 1, 0.045) infinite;
+}
+
+@keyframes cursor {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+footer {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+@media only screen and (max-width: 850px) {
   .headingTitle {
     font-size: 4rem;
   }
-  .container2{
+  .container2 {
     width: 100%;
     padding: 0 1rem;
   }
   .skills {
-  grid-template-columns: repeat(5, 1fr);
-  
-}
+    grid-template-columns: repeat(5, 1fr);
+  }
   .skills > img {
     width: 40px;
   }
