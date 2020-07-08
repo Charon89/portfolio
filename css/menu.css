@@ -30,10 +30,10 @@
   justify-content: center;
   border-radius: 100%;
   transition: background 0.6s;
-  animation: wave 2s cubic-bezier(0.95, 0.1, 0.88, 0.77) infinite;
+  /* animation: wave 2s cubic-bezier(0.95, 0.1, 0.88, 0.77) infinite; */
 }
 
-@keyframes wave {
+/* @keyframes wave {
   0% {
     box-shadow: 0px 0px 0px 0px #fff;
   }
@@ -43,7 +43,7 @@
   100% {
     box-shadow: 0px 0px 0px 0px #fff;
   }
-}
+} */
 
 /*Hamburger line*/
 .menu-wrap .hamburger > div {
