@@ -172,6 +172,11 @@ p {
   .showcase{
     height: 35vh;
   }
+  .gradient {
+  background: radial-gradient(
+    rgba(137, 207, 186, 0.719) 0%,   rgba(3, 41, 19, 0.281)  );
+  height: 100%;
+}
   .headingTitle {
     font-size: 4rem;
   }
